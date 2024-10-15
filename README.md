@@ -1,6 +1,6 @@
-# Hi there, I'm Hilsden 👋
+# Hi there, I'm Brian 👋
 
-I'm a full-stack software engineer passionate about building web applications and learning new technologies. 
+I'm a full-stack software developer passionate about building web applications and learning new technologies. 
 
 ## 🚀 Technologies & Tools
 
@@ -21,10 +21,10 @@ I'm a full-stack software engineer passionate about building web applications an
 
 ## 🎯 Fun Facts
 
-- I love trying out new coffee flavors ☕.
+- I view debugging as my personal escape room challenge—can I solve the mystery before the deadline?.
 - I’m a huge fan of open-source contributions!
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hilsden-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hilsden/)
-[![Email](https://img.shields.io/badge/Email-Hilsden@example.com-orange?style=flat-square&logo=gmail)](mailto:hilsden@example.com)
+
+[![Email](https://img.shields.io/badge/Email-brianhilsden@gmail.com-orange?style=flat-square&logo=gmail)](mailto:brianhilsden@gmail.com)
