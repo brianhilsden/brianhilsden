@@ -16,8 +16,8 @@ I'm a full-stack software engineer passionate about building web applications an
 
 ## 🌱 Currently Learning
 
-- Building REST APIs with Flask and Express.js
 - Database management with Prisma and PostgreSQL
+- GraphQL for more flexible APIs
 
 ## 🎯 Fun Facts
 
