@@ -22,7 +22,7 @@ I'm a full-stack software developer passionate about building web applications a
 ## 🎯 Fun Facts
 
 - I view debugging as my personal escape room challenge—can I solve the mystery before the deadline?
-- I’m a huge fan of open-source contributions!
+- I have a keen interest in how technology can be leveraged to drive innovation and improve everyday experiences.
 
 ## 📫 How to reach me
 
