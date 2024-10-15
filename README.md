@@ -6,18 +6,12 @@ I'm a full-stack software engineer passionate about building web applications an
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-## 🛠 Projects
-
-- [MunchInKenya](https://github.com/Hilsden/MunchInKenya) - A food delivery app with real-time tracking, built using React, Flask, and PostgreSQL.
-- [Retail Management Dashboard](https://github.com/Hilsden/retail-dashboard) - A management system for retail owners, admins, and riders. Tech stack: React, Redux, Tailwind CSS.
-
-## 📈 GitHub Stats
-
-![Hilsden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hilsden&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilsden&layout=compact&theme=tokyonight)
 
 ## 🌱 Currently Learning
 
