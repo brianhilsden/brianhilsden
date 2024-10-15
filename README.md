@@ -27,4 +27,4 @@ I'm a full-stack software developer passionate about building web applications a
 ## 📫 How to reach me
 
 
-[![Email](https://img.shields.io/badge/Email-brianhilsden@gmail.com-orange?style=flat-square&logo=gmail)](mailto:brianhilsden@gmail.com)
+[![Email](https://img.shields.io/badge/Email-brianhilsden@gmail.com-blue?style=flat-square&logo=gmail)](mailto:brianhilsden@gmail.com)
