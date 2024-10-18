@@ -14,10 +14,6 @@ I'm a full-stack software developer passionate about building web applications a
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🌐 My Portfolio
-
-Check out my portfolio to see my projects and learn more about my work: [brianhilsden.dev](https://portfolio-three-mu-74.vercel.app/)
-
 
 ## 🌱 Currently Learning
 
@@ -29,7 +25,14 @@ Check out my portfolio to see my projects and learn more about my work: [brianhi
 - I view debugging as my personal escape room challenge—can I solve the mystery before the deadline?
 - I have a keen interest in how technology can be leveraged to drive innovation and improve everyday experiences.
 
+## 🌐 My Portfolio
+
+Check out my portfolio to see my projects and learn more about my work: [brianhilsden.dev](https://portfolio-three-mu-74.vercel.app/)
+
+
 ## 📫 How to reach me
 
 
 [![Email](https://img.shields.io/badge/Email-brianhilsden@gmail.com-blue?style=flat-square&logo=gmail)](mailto:brianhilsden@gmail.com)
+
+
