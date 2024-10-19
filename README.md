@@ -1,6 +1,6 @@
 # Hi there, I'm Brian 👋
 
-I'm a full-stack software developer passionate about building web applications and learning new technologies. 
+I’m a full-stack software developer passionate about providing innovative solutions and continuously learning new technologies.
 
 ## 🚀 Technologies & Tools
 
