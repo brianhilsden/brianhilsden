@@ -27,7 +27,7 @@ I'm a full-stack software developer passionate about building web applications a
 
 ## 🌐 My Portfolio
 
-Check out my portfolio to see my projects and learn more about my work: [brianomondi.dev]https://brian-omondi.vercel.app/
+Check out my portfolio to see my projects and learn more about my work: [brianomondi.dev](https://brian-omondi.vercel.app/)
 
 
 ## 📫 How to reach me
