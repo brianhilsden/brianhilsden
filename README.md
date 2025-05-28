@@ -33,11 +33,6 @@ I’m a **Full-Stack Software Engineer** specializing in **web, mobile, and clou
 
 ---
 
-## 🌐 My Portfolio  
-
-🔗 **[brianomondi.dev](https://brian-omondi.vercel.app/)**  
-
----
 
 ## 📫 Let's Connect  
 
