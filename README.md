@@ -37,4 +37,4 @@ I’m a **Full-Stack Software Engineer** specializing in **web, mobile, and clou
 ## 📫 Let's Connect  
 
 [![Email](https://img.shields.io/badge/Email-brianhilsden@gmail.com-blue?style=flat-square&logo=gmail)](mailto:brianhilsden@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Hilsden-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brianhilsden/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Hilsden-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brianhilsden/](https://www.linkedin.com/in/brian-omondi-1603529a/)  
