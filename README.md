@@ -29,7 +29,7 @@ I’m a **Full-Stack Software Engineer** specializing in **web, mobile, and clou
 ---
 
 ## 🎯 Fun Facts
-🔍 I view debugging as my personal escape room challenge—can I solve the mystery before the deadline?
+🔍 I view debugging as my personal escape room challenge. Can I solve the mystery before the deadline?
 
 ---
 
