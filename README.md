@@ -1,6 +1,6 @@
 # Hi there, I'm Brian 👋  
 
-I’m a **Full-Stack Software Engineer** specializing in **web, mobile, and cloud** development. I enjoy building **scalable applications**, solving complex problems, and leveraging cloud technologies to create impactful solutions.  
+I’m a **Full-Stack Software Engineer** specializing in **web, mobile, and cloud** development. I enjoy building **scalable applications**, solving complex problems, and continously learning to create impactful solutions.  
 
 ---
 ## 🚀 Technologies & Tools
